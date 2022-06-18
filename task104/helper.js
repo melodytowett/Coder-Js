@@ -1,3 +1,4 @@
+
 const toLowerCase = (s) => {
   return s.toLowerCase();
 }
@@ -5,7 +6,6 @@ const toLowerCase = (s) => {
 const toUpperCase = (s) => {
   return s.toUpperCase();
 }
-
 export const createSamples = (s) => {
-  return s;
+  return s.toLowerCase()+s.toUpperCase()
 }

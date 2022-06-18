@@ -1,3 +1,5 @@
+export{users};
+
 const users = {
   1: {
     name: 'Connor',
@@ -9,4 +11,3 @@ const users = {
     name: 'Jack',
   },
 };
-

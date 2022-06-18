@@ -1,3 +1,3 @@
-export const questionize = (s) => {
+export const questionize = (s,) => {
   return s;
 }
